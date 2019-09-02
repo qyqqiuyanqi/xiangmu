@@ -63,7 +63,7 @@ export default {
 <style lang="less" scoped>
 .layoutheader {
   padding: 8px 0;
-  background-color: pink;
+  // background-color: pink;
   .left {
     display: flex;
     align-items: center;
